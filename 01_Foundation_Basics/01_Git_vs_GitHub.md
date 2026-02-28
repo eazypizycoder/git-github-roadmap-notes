@@ -1,6 +1,7 @@
 # 🚀 Lesson 01: Git vs GitHub (Video 1 Notes)
 
 This note is your quick-start guide for understanding the **difference between Git and GitHub**.
+Diagram Link : https://excalidraw.com/#json=ZgTWRwI9z6ODjAvJEcRwX,nFAQ9TWLJROUf_bRSuCYAw
 
 ---
 
