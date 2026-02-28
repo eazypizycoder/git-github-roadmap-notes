@@ -2,8 +2,10 @@
 
 This note is your quick-start guide for understanding the **difference between Git and GitHub**.
 
+
+Diagram Link : 
 ```
-Diagram Link : https://excalidraw.com/#json=ZgTWRwI9z6ODjAvJEcRwX,nFAQ9TWLJROUf_bRSuCYAw
+https://excalidraw.com/#json=ZgTWRwI9z6ODjAvJEcRwX,nFAQ9TWLJROUf_bRSuCYAw
 ```
 ---
 
